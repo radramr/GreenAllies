@@ -1,0 +1,35 @@
+.header-logo{
+    font-size:20px;
+    padding :10px 80px 10px 20px;
+    color: #508d00;
+    align-items: center;
+    text-align:center;
+    justify-content: center;
+    
+}
+
+.header-nav{
+background-color: #508d00;
+float:right;
+padding:10px 20px 10px 20px;
+}
+
+
+.header-nav-link{
+display:inline-block;
+font-size:20px;
+color:white;
+text-decoration:none;
+padding:10px 20px 10px 20px;
+}
+
+.image-size{
+    width: 100px;
+    height: 100px;
+    border-radius:50%;
+}
+
+.text-center{
+    text-align:center;
+    justify-content: center;
+}
